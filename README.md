@@ -34,6 +34,7 @@
 
     ```ini
     TS_AUTH_KEY=TS-AUTH-YOUR_TS_AUTH_KEY
+    MIKOPBX_ADMIN_PASSWORD=YOUR_SETTING_PASSWORD
     ```
 
 1. Docker コンテナを起動します。
